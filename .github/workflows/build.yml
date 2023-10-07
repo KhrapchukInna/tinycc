@@ -1,8 +1,6 @@
 name: build and run tests
 
-on:
-  push:
-    branches: [ mob ]
+onon: [push]
 
 jobs:
   test-x86_64-linux:
