@@ -1,6 +1,6 @@
 name: build and run tests
 
-onon: [push]
+on: [push]
 
 jobs:
   test-x86_64-linux:
